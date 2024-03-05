@@ -11,6 +11,10 @@ After extensive analysis, I achieved a remarkable 70% accuracy in predicting ele
 
 Beyond mere election predictions, I delved deeper into demographic insights. My data-driven findings perfectly aligned with existing knowledge: Trump enjoys popularity within the White demographic, while Biden's support is stronger among Black and Hispanic demographics.
 
+<img width="1229" alt="Screen Shot 2024-03-04 at 7 43 42 PM" src="https://github.com/shamayla38/Sentiment-Analysis-of-Election-Tweets/assets/123587034/68631faa-5d70-443f-bde0-215cff70222a">
+
+
+
 ## Insights and Limitations
 One notable insight from my research is the positive correlation between voter turnout rates and positive sentiments for Biden, as well as negative sentiments for Trump. This suggests that Twitter data indeed has the potential to replace traditional polling data.
 
